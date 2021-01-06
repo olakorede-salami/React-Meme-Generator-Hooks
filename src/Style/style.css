@@ -1,0 +1,38 @@
+
+
+input {
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.gen-btn {
+    padding: 5px;
+    border: none;
+}
+
+
+h1 {
+    position: absolute;
+}
+
+.top-input {
+    position: absolute;
+    top: 70px;
+}
+
+.bottom-input {
+    position: absolute;
+    top: 600px;
+}
+
+.meme-img {
+    width: 60vw;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
